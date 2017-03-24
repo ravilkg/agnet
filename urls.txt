@@ -1,0 +1,9 @@
+https://www.avtogid.kg
+https://news.avtogid.kg
+http://avtogid.kg
+http://news.avtogid.kg
+https://www.avtogid.kg/browse/Auto/?sorting_fields[activation_date]=DESC
+https://www.avtogid.kg/browse/Auto/SUVs/
+https://www.avtogid.kg/browse/Auto/SUVs/Mitsubishi/
+https://www.avtogid.kg/browse/Auto/Cars/?sorting_fields[activation_date]=DESC
+https://www.avtogid.kg/browse/Auto/Cars/Toyota/
